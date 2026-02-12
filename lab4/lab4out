@@ -5,3 +5,6 @@ Traning data:
 1  sunny     warm     high  strong  warm     same         yes
 2  rainy     cold     high  strong  warm   change          no
 3  sunny     warm     high  strong  cool   change         yes
+
+
+['sunny' 'warm' '?' 'strong' '?' '?']
