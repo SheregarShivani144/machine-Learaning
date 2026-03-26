@@ -1,0 +1,8 @@
+Linear Regression-Boston Housing Dataset
+Mean squared Error 46.144775347317264
+R^2 Score: 0.3707569232254778
+
+
+Polynomial Regression-Auto MPG Dataset
+Mean Squared Error: 0.7431490557205861
+R^2 score: 0.7505650609469626
